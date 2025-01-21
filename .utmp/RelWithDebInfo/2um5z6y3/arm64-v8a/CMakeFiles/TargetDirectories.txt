@@ -1,0 +1,5 @@
+D:/Git Games/AR-Demo/.utmp/RelWithDebInfo/2um5z6y3/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Git Games/AR-Demo/.utmp/RelWithDebInfo/2um5z6y3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Git Games/AR-Demo/.utmp/RelWithDebInfo/2um5z6y3/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Git Games/AR-Demo/.utmp/RelWithDebInfo/2um5z6y3/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Git Games/AR-Demo/.utmp/RelWithDebInfo/2um5z6y3/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
